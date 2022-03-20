@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    text-align: center;
+    background: aliceblue;
+    padding: 5%;
+}
+
+ h1{
+
+    background: blueviolet;
+    color: aliceblue;
+
+    text-align: center;
+}
+
+
+.container .inputText{
+    width: 100%;
+    border: none;
+    padding: 5px;
+    background: gray;
+    margin: 5px;
+    border-radius: 2%;
+    height: 50px;
+}
